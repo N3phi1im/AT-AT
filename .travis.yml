@@ -1,0 +1,8 @@
+sudo: false
+language: node_js
+notifications:
+  slack: hylian-hedge-cutters:OwzU2FbI0sQW4xbJdZi1O9E0
+node_js:
+  - 'iojs'
+  - '0.12'
+  - '0.10'
